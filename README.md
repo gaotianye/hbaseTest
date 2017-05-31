@@ -1,2 +1,2 @@
 # hbaseTest
-hbase测试
+hbase和redis测试
